@@ -2,3 +2,13 @@ body {
   background-color: coral;
   margin: 0px 0px 0px 0px;
 }
+.bagian-atas{
+	margin-top: 3%;
+}
+.font-s{
+	font-size: 12px;
+}
+#about{
+	background-color: white;
+    border-radius: 1%;
+}
